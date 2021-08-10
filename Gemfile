@@ -33,3 +33,4 @@ gem "webrick", "~> 1.7"
 gem 'jekyll-include-cache'
 gem "minimal-mistakes-jekyll"
 gem 'jekyll-gist'
+gem "github-pages", "~> 217", group: :jekyll_plugins

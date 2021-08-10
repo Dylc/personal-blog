@@ -1,9 +1,9 @@
 ---
-layout: post
 title:  "List of jewish songs that I like"
-date:   2021-08-08 21:32:49 +0300
-categories: jekyll update
+categories: songs jewish
+tags: songs jewish
 ---
+List of the jewish songs mostly data and in hebrew
 
 1. [Benny Friedman - Хорошо - Charasho][charasho]
 2. [ישי ריבו - סיבת הסיבות][sibaHaSibot]
