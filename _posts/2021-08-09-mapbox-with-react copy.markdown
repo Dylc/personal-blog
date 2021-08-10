@@ -6,7 +6,9 @@ tags: "mapbox reactjs"
 ---
 Simplest example how to set up mapbox with react
 
-![Europe cities map using mapbox](/assets/images/mapbox-cities.png)
+Europe cities map using mapbox:
+<img src="{{ site.baseurl }}/assets/images/mapbox-cities.png">
+
 
 1. Install [mapbox-gl][mapbox-gl] by running ```npm i mapbox-gl```
 
